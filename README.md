@@ -1,4 +1,4 @@
-### Hi there 👋
+### Software Engineering / Medical Device R&D
 
 - 🔭  Specializing javascript NERP stack: Node, Express, React, PostgresSQL
 - 👯  I’m looking to collaborate on an overlap of medical devices and software engineering
