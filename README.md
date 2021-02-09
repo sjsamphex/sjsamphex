@@ -7,3 +7,5 @@
 
 - Linkedin: https://www.linkedin.com/in/samirjain93/
 - Email: sjsamphex@gmail.com or samir.jain@gatech.edu
+
+![Samir_Jain_Spine](https://user-images.githubusercontent.com/10406995/107388210-6ff14700-6aaa-11eb-8299-2d41d6c69a7f.jpg)
