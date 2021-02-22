@@ -6,7 +6,7 @@
 - 💬 Ask me about innovative tech, medical devices, FDA regulations
 - 😄 Pronouns: he/him/his
 
-- GitHub Portfolio: https://sjsamphex.github.io/sjsamphex/
+- GitHub Portfolio: https://sjsamphex.github.io/
 - Linkedin: https://www.linkedin.com/in/samirjain93/
 - Email: sjsamphex@gmail.com or samir.jain@gatech.edu
 
