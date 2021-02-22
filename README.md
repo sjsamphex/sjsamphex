@@ -1,10 +1,11 @@
-### Software Engineering / Medical Device R&D
+### Frontend Software Development / Medical Device R&D
 
 - 🔭  Specializing javascript NERP stack: Node, Express, React, PostgresSQL
 - 👯  I’m looking to collaborate on an overlap of medical devices and software engineering
 - 💬  Ask me about cardiovascular implants, orthopedic surgery, medical device development, and a little bit of web development
 - 😄  Pronouns: he/him/his
 
+- GitHub Portfolio: https://sjsamphex.github.io/samir-jain/
 - Linkedin: https://www.linkedin.com/in/samirjain93/
 - Email: sjsamphex@gmail.com or samir.jain@gatech.edu
 
