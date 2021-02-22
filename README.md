@@ -11,6 +11,3 @@
 - Email: sjsamphex@gmail.com or samir.jain@gatech.edu
 
 ![Samir_Jain_Spine](https://raw.githubusercontent.com/sjsamphex/sjsamphex/main/images/Samir-Banner.jpg)
-
-
-GWG test
